@@ -1,0 +1,7 @@
+/spring-cloud-sleuth/.idea
+/spring-cloud-sleuth/sleuth-consumer/*.iml
+/spring-cloud-sleuth/sleuth-producer/*.iml
+/spring-cloud-sleuth/*.lnk
+/spring-cloud-sleuth/*.iml
+/spring-cloud-sleuth/sleuth-server/target/classes/com/bugod/example/*.class
+/spring-cloud-sleuth/sleuth-server/*.iml
